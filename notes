@@ -117,6 +117,8 @@ respaldo
 quien revisa el color de calidad
 el qa
 
+automasizacion 
+
 se pidio de madera y es de fierro
 color rojo y es azul
 
@@ -158,6 +160,41 @@ documentacion 6 meses
 el cliente esta producioendo cambios
 agil - hibrida
 
+automatizacion 
+datos 
+validacion de datos
+
+lista
+
+baja;media;alta
+
+si celda = baja
+
+baja y baja = verdadero
+media y baja = falso
+
+cuestionario excel
+
+registro actualizado
+rombo tareas
+hitos
+
+fases 
+tareas tarea 1 - predecedor
+       tarea 2
+hitos
+
+fases
+tareas
+hitos
+
+analisis termniar - los procesos internos
+conducto relugar
+
+ciclo de software
+hibrido
+tradicional
+agil
 
 
 
