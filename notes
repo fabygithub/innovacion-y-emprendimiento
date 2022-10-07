@@ -162,7 +162,11 @@ agil - hibrida
 
 automatizacion 
 datos 
-validacion de datos
+validacion de datos - lista
+- origen - SI;NO - seleccionar datos -
+con la misma configuracion
+
+
 
 lista
 
@@ -179,6 +183,7 @@ registro actualizado
 rombo tareas
 hitos
 
+
 fases 
 tareas tarea 1 - predecedor
        tarea 2
@@ -188,8 +193,8 @@ fases
 tareas
 hitos
 
-analisis termniar - los procesos internos
-conducto relugar
+analisis terminar - los procesos internos
+conducto regular
 
 ciclo de software
 hibrido
