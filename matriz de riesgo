@@ -1,0 +1,69 @@
+si y
+si(y(a1="a"; b1="a");y;si(a1=8)
+
+a      a   3 opciones por cada uno
+m      m   3
+b      b   3
+
+si 9
+si anidado
+
+si y
+si o
+
+signos de comparacion
+=  igual
+<  menor
+>  mayor
+<= menor igual
+>= mayor igual
+<> distinto a
+
+alfanumerico no es calculable
+"2" alfanumerico
+
+comparacion del mismo tipo 
+2=2  verdadero
+2<>3 verdadero
+DOS = DOS error
+"2"="2" =  verdadero
+"DOS"<"TRES"
+"HOLA">"CHAO"
+
+tabla de verdad
+explicacion
+si la primera condicion es verdadera y la segunda es verdadero
+v      v       v
+
+v      f      repuesta : depende si es and o or
+
+or 100 falsas 1 verdera es verdadero
+
+ejercicio para desarrollar una matriz de riesgo automatizada
+
+<= 200.000
+2 condiciones 1 si  1 default
+3 condiciones 2 si  1 default
+4 condiciones 3 si  1 default
+9 condiciones 8 si  1 default
+
+la regla univer porcentaje
+interes multiplicacion
+descuento multiplicacion
+
+f4
+=si(b2<=20000;b2*$c$17,si(b2<=50000:b2*c8)) 
+) negro enter
+
+ejercicio resuelto
+
+
+
+
+
+
+
+
+
+
+
